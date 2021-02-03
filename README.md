@@ -1,4 +1,4 @@
-**************Instilation*************************
+``` **************Instilation*************************
 => Browser 
 => Vs Code
   a. phpcs
@@ -7,5 +7,5 @@
 =>. Laragon and WP local ( server )
 =>. Slack
 
-
+```
 
